@@ -1,5 +1,8 @@
 # IAQF Repo
 
+## Authors
+Hui Cai, Israel Diego, Yifei Lu, Rick (Yuankang) Xiong, Xinye Xu, Yuan Yin
+
 ### MODEL LEARN WEB
 https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
 
