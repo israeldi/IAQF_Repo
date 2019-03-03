@@ -1,4 +1,4 @@
-# IAQF_Repo
+# IAQF Repo
 
 ### MODEL LEARN WEB
 https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
